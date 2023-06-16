@@ -1,0 +1,14 @@
+.custxlfont{
+	font-family: 'Roboto Slab', serif;
+	
+
+}
+
+.custsmfont{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px
+}
+
+.switchoff{
+	opacity: 0.25;
+}
